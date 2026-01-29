@@ -2,8 +2,8 @@ function Contact() {
   return (
     <section>
       <h2>Contact</h2>
-      <p>Email: abidnoor38544@example.com</p>
-      <p>Phone: +92 329 4566205</p>
+      <p>Email: muhammadafzalamnafzal@gmail.com</p>
+      <p>Phone: +92 320 1170289</p>
     </section>
   );
 }
